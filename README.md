@@ -6,7 +6,7 @@ This is a remix of the original [What's in Standard MTG][2] project ([also on Gi
 
 Released under the MIT license, except for the set icons. Those are from [Hearthpwn][4] with their approval.
 
-[0]: http://standardhearth.com//
+[0]: http://standardhearth.com/
 [1]: http://hearthstone.gamepedia.com/Standard_format
 [2]: http://whatsinstandard.com/
 [3]: https://github.com/glacials/whatsinstandard
