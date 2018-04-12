@@ -110,7 +110,7 @@ ul.list-group > li.list-group-item.gray > span.badge > img {
 
 .low-distraction, a.low-distraction, a.low-distraction:active 
   text-decoration: none;
-  color: #bbb;
+  color: #000000;
 }
 
 a.low-distraction:hover {
