@@ -112,9 +112,11 @@ ul.list-group > li.list-group-item.gray > span.badge > img {
 
 .low-distraction, a.low-distraction, a.low-distraction:active 
   text-decoration: none;
+  color: #bbb;
 }
 
 a.low-distraction:hover {
+  color: #666;
 }
 
 /*
