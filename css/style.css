@@ -110,13 +110,11 @@ ul.list-group > li.list-group-item.gray > span.badge > img {
   font-size: .8em;
 }
 
-.low-distraction, a.low-distraction, a.low-distraction:active {
-  #color: #bbb;
+.low-distraction, a.low-distraction, a.low-distraction:active 
   text-decoration: none;
 }
 
 a.low-distraction:hover {
-  #color: #666;
 }
 
 /*
