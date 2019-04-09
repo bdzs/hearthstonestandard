@@ -2,8 +2,6 @@
   "name": "hearthstonestandard",
   "version": "1",
   "homepage": "http://standardhearth.com/",
-  "authors": [
-    "Daniel Gyori <qydaniel@gmail.com>"
   ],
   "description": "What's in Hearthstone Standard?",
   "main": "index.html",
