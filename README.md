@@ -1,3 +1,5 @@
+THIS PROJECT IS NOT MAINTAINED ANYMORE
+
 # What's in Hearthstone Standard?
 [What's in Hearthstone Standard?][0] is a simple reference page made to help new (or not new) Hearthstone players to easily
 check which sets are currently in the [Standard format][1].
